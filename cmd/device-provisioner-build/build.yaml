@@ -8,4 +8,4 @@ plugins:
     path: github.com/onosproject/onos-p4-plugins/plugins/basic@basic-v0.0.5
   - name: middleblock
     version: 1.0.0
-    path: github.com/onosproject/onos-p4-plugins/plugins/middleblock@middleblock-v0.0.5
+    path: github.com/onosproject/onos-p4-plugins/plugins/middleblock@middleblock-v0.0.7
